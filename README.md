@@ -2,10 +2,10 @@
 
 ### Install and run irtual environment
 
-pip3 install virtualenv
-pip3 install flask flask-sqlalchemy
-virtualenv env
-source env/bin/activate
+`pip3 install virtualenv`
+`pip3 install flask flask-sqlalchemy`
+`virtualenv env`
+`source env/bin/activate`
 
 ### Initailize database
 
