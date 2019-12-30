@@ -1,14 +1,16 @@
 ## TODO app with Python and Flask
 
-### Install and run virtual environment
+### Dependencies
 
-`pip3 install virtualenv`
+`pip3 install virtualenv`</br>
 `pip3 install flask flask-sqlalchemy`
 
-`virtualenv env`
+### Virtual environment
+
+`virtualenv env`</br>
 `source env/bin/activate`
 
-### Initialise database
+#### Initialise database
 
 ````
 ```console
