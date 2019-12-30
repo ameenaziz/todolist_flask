@@ -1,14 +1,21 @@
 ## TODO app with Python and Flask
 
-### Install and run irtual environment
+### Install and run virtual environment
 
-pip3 install virtualenv
-pip3 install flask flask-sqlalchemy
-virtualenv env
-source env/bin/activate
+`pip3 install virtualenv`
+`pip3 install flask flask-sqlalchemy`
 
-### Initailize database
+`virtualenv env`
+`source env/bin/activate`
 
-python3 shell
-`from app import db`
-`db.create_all()`
+### Initialise database
+
+````
+```console
+foo@bar:~$ python3
+
+from app import db
+
+db.create_all()
+
+````
