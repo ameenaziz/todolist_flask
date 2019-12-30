@@ -10,7 +10,7 @@
 `virtualenv env`</br>
 `source env/bin/activate`
 
-#### Initialise database
+### Initialise database
 
 ````
 ```console
